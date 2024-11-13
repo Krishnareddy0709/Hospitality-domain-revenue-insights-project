@@ -101,7 +101,8 @@ Data Modeling
 
 ![Alt text](https://github.com/Krishnareddy0709/Hospitality-domain-revenue-insights-project/blob/0802ffd160d6a0a8d39093af2da4dc461fd8badb/Dashboard%20design.png)
 
-image
+
+![Alt text](https://github.com/Krishnareddy0709/Hospitality-domain-revenue-insights-project/blob/a7b421ec55985fcf07c20818268bb1bb5971f4f6/Data%20modeling.png)
 
 Building DAX
 
