@@ -99,7 +99,7 @@ dim_rooms
 The column names are not captured here. We need to select "Use First Row as Headers" option .
 Data Modeling
 
-image
+![Alt text](https://github.com/Krishnareddy0709/Hospitality-domain-revenue-insights-project/blob/cc1af988ad900a8f5dfe66a0c21a516c4f037a68/mock%20up%20dashboard_atliq%20grands.png)
 
 image
 
