@@ -99,8 +99,6 @@ dim_rooms
 The column names are not captured here. We need to select "Use First Row as Headers" option .
 Data Modeling
 
-![Alt text](https://github.com/Krishnareddy0709/Hospitality-domain-revenue-insights-project/blob/0802ffd160d6a0a8d39093af2da4dc461fd8badb/Dashboard%20design.png)
-
 
 ![Alt text](https://github.com/Krishnareddy0709/Hospitality-domain-revenue-insights-project/blob/a7b421ec55985fcf07c20818268bb1bb5971f4f6/Data%20modeling.png)
 
@@ -127,7 +125,9 @@ Dashboarding and insight Generation
 
 Dashboard Design
 
-image
+![Alt text](https://github.com/Krishnareddy0709/Hospitality-domain-revenue-insights-project/blob/0802ffd160d6a0a8d39093af2da4dc461fd8badb/Dashboard%20design.png)
+
+
 
 Dashboard Insights
 
